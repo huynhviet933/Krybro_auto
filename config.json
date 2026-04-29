@@ -1,0 +1,8 @@
+{
+    "mode": 1,
+    "threads": 3,
+    "delayAction": [3, 10],
+    "delayAccount": [5, 10],
+    "staggerStart": [3, 10],
+    "timezone": "Asia/Ho_Chi_Minh"
+}
